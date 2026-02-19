@@ -1,3 +1,19 @@
+# Copyright (C) 2026 Abishek Jakkala
+# This file is part of Gentoo helper scripts <https://github.com/Matr1x-101/gentoo-helper-scripts>
+#
+# Gentoo helper scripts is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# Gentoo helper scripts is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Gentoo helper scripts.  If not, see <http://www.gnu.org/licenses/>.
+
 #!/bin/bash
 
 PREFIX="https://github.com/darlinghq/"
